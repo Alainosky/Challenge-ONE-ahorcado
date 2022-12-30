@@ -1,0 +1,88 @@
+body{
+    background-image: url(./imagenes/estados/032\ Sharpeye\ Eagle.png);
+    margin: 0px;
+}
+html {
+  font-size: 16px;
+}
+
+.logo{
+  height: 48px;
+  width: 31.085588455200195px;
+  margin-left: 84px;
+  margin-top: 40px;
+  border-radius: 0px;
+ 
+}
+
+#hombre {
+  max-width: 100%;
+  max-height: 100%;
+  width: 16.75rem;
+  height: 16.75rem;
+  display: inline-block;
+}
+
+.hombre-ahorcado {
+  width: 100vw;
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  background-color: transparent;
+  height: 16.75rem;
+}
+.adivinado {
+  text-align: center;
+  color: #242d34;
+  font-size: 1.8rem;
+
+}
+.letra {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+
+}
+.adivinada {
+  width: 4.5rem;
+  height: 4.5rem;
+  font-size: 1.8rem;
+  color: #002460;
+  border-bottom: solid 1px #002460;
+  margin-left: 0.4rem;
+  line-height: 4.5rem;
+}
+.errado {
+  text-align: center;
+  margin-top: 1rem;
+  color: #242d34; 
+  margin-left: 1rem;
+}
+.errada {
+  margin-left: 1rem;
+
+}
+[type="button"] {
+  width: 15rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: #0a3871;
+  border: solid 1px #0a3871;
+  color: #0a3871;
+  background-color: inherit ;
+  cursor: pointer;
+}
+.btn-azul {
+  background-color: #0a3871;
+  color: #fff;
+ border-color: #000; 
+}
+
+.botones {
+  text-align: center;
+  margin-top: 3rem;
+  
+}
+@media screen and (max-width:480px) {
+  
+}
